@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Serial Position Effect - Drop-down List</title>
+  <style>
+    /* Basic styling for the drop-down list */
+    select {
+      padding: 5px;
+      font-size: 16px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Serial Position Effect - Drop-down List Example</h1>
+
+  <label for="options">Select a Course:</label>
+  <select id="options">
+    <option value="" selected disabled hidden>Please select</option>
+    <option value="option1">CSE</option>
+    <option value="option2">EEE</option>
+    <option value="option3">IT</option>
+    <option value="option4">MECH</option>
+    <option value="option5">CIVIL</option>
+  </select>
+
+  <script>
+    // Add event listener to capture user selection
+    var dropDown = document.getElementById("options");
+    dropDown.addEventListener("change", function() {
+      var selectedOption = dropDown.value;
+      console.log("Selected option: " + selectedOption);
+      // You can perform any desired actions based on the selected option here
+    });
+  </script>
+</body>
+</html>

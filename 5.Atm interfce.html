@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ATM Interface</title>
+  <style>
+    body {font-family: Arial, sans-serif; text-align: center;}
+    .container {margin: 50px auto; width: 300px;}
+    .input-group {margin-bottom: 20px;}
+    .input-group label {display: block; text-align: left; margin-bottom: 5px;}
+    .input-group input {width: 100%; padding: 5px; font-size: 16px; border-radius: 5px; border: 1px solid #ccc;}
+    .button {background-color: #4CAF50; color: white; padding: 10px 20px; font-size: 16px; border: none; border-radius: 5px; cursor: pointer;}
+    .button:hover {background-color: #45a049;}
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>ATM Interface</h1>
+    <form>
+      <div class="input-group">
+        <label for="account">Account Number</label>
+        <input type="text" id="account" name="account" placeholder="Enter account number">
+      </div>
+      <div class="input-group">
+        <label for="pin">PIN</label>
+        <input type="password" id="pin" name="pin" placeholder="Enter PIN">
+      </div>
+      <div class="input-group">
+        <input type="submit" value="Login" class="button">
+      </div>
+    </form>
+  </div>
+</body>
+</html>

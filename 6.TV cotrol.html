@@ -1,0 +1,45 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+  <title>Mobile Keypad</title> 
+  <style>     body {       display: flex;       justify-content: center;       align-items: center;       height: 100vh;       margin: 0; 
+    } 
+    .keypad {       display: grid;       grid-template-columns: repeat(3, 1fr);       gap: 10px;       width: 200px; 
+    } 
+    .key {       display: flex;       justify-content: center;       align-items: center;       height: 50px;       background-color: #ccc;       border-radius: 5px;       cursor: pointer; 
+    } 
+    #feedback {       margin-top: 10px;       font-weight: bold;       text-align: center; 
+    } 
+    button {       margin-top: 10px; 
+    } 
+  </style> 
+</head> 
+<body> 
+  <div class="keypad"> 
+    <div class="key" onclick="handleKeyPress('1')">1</div> 
+    <div class="key" onclick="handleKeyPress('2')">2</div> 
+    <div class="key" onclick="handleKeyPress('3')">3</div> 
+    <div class="key" onclick="handleKeyPress('4')">4</div> 
+    <div class="key" onclick="handleKeyPress('5')">5</div> 
+    <div class="key" onclick="handleKeyPress('6')">6</div> 
+    <div class="key" onclick="handleKeyPress('7')">7</div> 
+    <div class="key" onclick="handleKeyPress('8')">8</div> 
+    <div class="key" onclick="handleKeyPress('9')">9</div>     <div class="key" onclick="handleKeyPress('*')">*</div>     <div class="key" onclick="handleKeyPress('0')">0</div>     <div class="key" onclick="handleKeyPress('#')">#</div> 
+  </div> 
+ 
+  <button onclick="deleteLastKeyPressed()">Delete</button> 
+  <p id="feedback"></p> 
+ 
+  <script>     var pressedKeys = []; 
+ 
+    function handleKeyPress(key) {       pressedKeys.push(key);       updateFeedback(); 
+    } 
+ 
+    function deleteLastKeyPressed() {       pressedKeys.pop();       updateFeedback(); 
+    } 
+ 
+    function updateFeedback() {       document.getElementById("feedback").innerText = "Pressed keys: " + pressedKeys.join(""); 
+    } 
+  </script> 
+</body> 
+</html> 
