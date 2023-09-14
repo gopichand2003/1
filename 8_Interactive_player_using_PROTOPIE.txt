@@ -1,0 +1,48 @@
+CREATE AN INTERACTIVE PLAYER PROTOTYPE USING PROTOPIE 
+
+AIM: To create an interactive player prototype using protopie.
+
+PROCEDURE:
+
+Step 1: Setting up the Project
+    1. Download and install ProtoPie (if you haven't already).
+    2. Launch ProtoPie and create a new project.
+    3. Set the canvas size to a mobile device resolution (e.g., 375x667 for iPhone 8).
+
+Step 2: Designing the Player UI
+    1. Create a circle for the play/pause button.
+    2. Create another circle for the skip button.
+    3. Design a rectangle for the progress bar.
+
+Step 3: Adding Interactions
+    1. Select the play/pause button and open the "Interaction" panel.
+    2. Click on "Add Interaction" and select "On Tap."
+    3. Choose "Toggle" as the interaction type.
+    4. Select the play/pause button again, and in the "Layers" panel, create two states: "Play"
+    and "Pause." Design each state accordingly (e.g., play icon in the "Play" state and
+    pause icon in the "Pause" state).
+
+Step 4: Adding Progress Animation
+    1. Select the progress bar and open the "Interaction" panel.
+    2. Click on "Add Interaction" and select "On Tap."
+    3. Choose "Change Property" as the interaction type.
+    4. Select the progress bar, choose the "Transform" property, and set the "Scale" property
+    to increase the width of the progress bar to simulate progress.
+
+Step 5: Adding Skip Interaction
+    1. Select the skip button and open the "Interaction" panel.
+    2. Click on "Add Interaction" and select "On Tap."
+    3. Choose "Change Screen" as the interaction type.
+    4. Create a new screen that represents the next song or a skip action.
+
+Step 6: Testing the Prototype
+    1. Connect a mobile device to the ProtoPie Player app.
+    2. Click the "Play" button to simulate the play/pause action.
+    3. Tap the progress bar to simulate song progress.
+    4. Tap the skip button to navigate to the next song screen.
+
+Step 7: Refining the Prototype
+    1. Adjust animations, transitions, and timings to make the interactions feel natural.
+    2. Test the prototype with potential users and gather feedback for improvements.
+
+RESULT: Thus interactive player prototype using protopie has been created.

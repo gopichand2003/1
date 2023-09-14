@@ -1,0 +1,55 @@
+DESIGN A PROTOTYPE FOR ONLINE MOBILE PAYMENT APPLICATION USING FIGMA
+
+AIM:To design a prototype for online mobile payment application using figma.
+
+PROCEDURE: 
+Step 1: Understand the Requirements
+Before you start designing, make sure you have a clear understanding of the features and functionalities required 
+for the mobile paymentapplication. This may include user registration, linking bank accounts or cards,
+making payments, viewing transaction history, and more.
+
+Step 2: Create a New Figma Project
+    1. Log in to Figma or create an account if you don't have one.
+    2. Start a new project and choose the appropriate device size (e.g., iPhone X).
+
+Step 3: Design the Main Screens
+Design the following key screens that cover the primary user flow of the mobile payment application:
+    1. Welcome/Onboarding Screen:
+        o Introduce the app and its benefits.
+        o Include a "Get Started" button.
+    2. Registration/Login Screen:
+        o Provide fields for user registration (name, email, password).
+        o Include social login options (e.g., Google, Facebook) if applicable.
+        o Allow users to log in with existing credentials.
+    3. Home/Account Overview Screen:
+        o Display user account balance.
+        o Show quick links to popular actions (e.g., Send Money, Pay Bills).
+        o Provide a transaction summary or recent activity.
+    4. Send Money Screen:
+        o Allow users to select recipients (contacts or manually enter details).
+        o Provide an amount field.
+        o Include a "Send" button.
+    5. Transaction History Screen:
+        o List past transactions with details (recipient, amount, date).
+        o Include filters and sorting options.
+
+Step 4: Design Interaction and Flows
+    1. Use Figma's prototyping tools to create interactions between screens.
+    2. Set up basic navigation, such as linking buttons to relevant screens.
+    3. Create transitions (slide, dissolve, etc.) to make the prototype more realistic.
+
+Step 5: Design User Interface Elements
+    1. Use Figma's design tools to create buttons, input fields, icons, and other UI elements.
+    2. Maintain a consistent color scheme and typography.
+    3. Ensure the design is user-friendly and intuitive.
+
+Step 6: Add Interactive Elements
+    1. Enhance the prototype with interactive elements like buttons, sliders, and toggles.
+    2. Show how user actions (e.g., tapping "Send") lead to changes on the screen.
+
+Step 7: Review and Iterate
+    1. Review the prototype for usability and completeness.
+    2. Share the prototype with stakeholders or potential users to gather feedback.
+    3. Iterate on the design based on the feedback received.
+
+RESULT:Thus an prototype for online mobile payment application using figma has been designed.

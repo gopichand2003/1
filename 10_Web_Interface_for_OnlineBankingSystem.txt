@@ -1,0 +1,61 @@
+DESIGN A WEB INTERFACE FOR ONLINE BANKING SYSTEM
+
+AIM: To design a web interface for online banking systems using balsamiq design software
+
+PROCEDURE:
+Step 1: Understand the Requirements
+Before you start designing, make sure you have a clear understanding of the features and
+functionalities required for the online banking system. This may include user authentication,
+account overview, fund transfers, transaction history, bill payments, and more.
+
+Step 2: Start a New Project
+    1. Launch Balsamiq.
+    2. Create a new project with a suitable canvas size (e.g., desktop or mobile resolution).
+
+Step 3: Design the Main Layout
+    1. Begin with the main layout, which typically includes a header, sidebar or navigation,
+    and a content area.
+    2. Use simple shapes (rectangles, text boxes, buttons) to represent each of these
+    elements.
+    3. Arrange them in a clean and intuitive manner.
+
+Step 4: Design Key Pages
+Design the following key pages, keeping the overall user flow in mind:
+    1. Login Page:
+        o Include fields for username and password.
+        o Add a "Login" button.
+        o Consider including a "Forgot Password" link.
+    2. Account Overview Page:
+        o Display account balances.
+        o Show recent transactions.
+        o Include navigation to other sections.
+    3. Transfer Funds Page:
+        o Provide fields for selecting source and destination accounts.
+        o Include an amount field.
+        o Add a "Transfer" button.
+    4. Transaction History Page:
+        o Display a list of past transactions.
+        o Include filters and sorting options.
+    5. Bill Payments Page:
+        o Allow users to select the biller.
+        o Include fields for entering payment details.
+        o Add a "Pay" button.
+
+Step 5: Use Balsamiq Components
+Take advantage of Balsamiq's pre-built components to create a more realistic and consistent
+design. Customize the components to match the branding and overall look of an online
+banking system.
+
+Step 6: Maintain Clarity and Simplicity
+    1. Use clear and concise labels.
+    2. Maintain a clean and consistent visual style.
+    3. Prioritize user-friendly interactions.
+    4. Ensure the design is responsive if you're designing for multiple screen sizes.
+
+Step 7: Review and Iterate
+    1. Review the wireframes/mockups for usability and completeness.
+    2. Gather feedback from stakeholders or potential users.
+    3. Iterate on the design based on the feedback received.
+
+RESULT: Thus a web interface for online banking systems using balsamiq design software
+has been designed .

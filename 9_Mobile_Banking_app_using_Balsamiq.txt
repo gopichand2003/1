@@ -1,0 +1,51 @@
+DESIGN A MOBILE BANKING APPLICATION USING BALSAMIQ DESIGN SOFTWARE
+
+AIM: To design a mobile banking application using balsamiq design software
+
+PROCEDURE:
+
+Step 1: Gather Requirements before designing.
+
+Step 2: Install Balsamiq If you haven't already, download and install Balsamiq on your computer. You
+can choose between the desktop version or the web-based version, depending on your preference.
+
+Step 3: Create a New Project Launch Balsamiq and create a new project for mobile banking app.
+Choose the appropriate screen size for mobile devices.
+
+Step 4: Start Wireframing, begin creating wireframes for each screen or feature of your mobile
+banking app. Here's a list of screens you might want to design:
+
+    1.Login/Register: Create wireframes for the login and registration screens. Include fields
+    for username/email and password, as well as registration fields if applicable.
+
+    2.Account Overview: Design a screen that shows the user's account balances, recent
+    transactions, and other relevant account information.
+
+    3.Transactions: Create wireframes for the screen where users can view their transaction
+    history and details.
+
+    4.Transfers: Design screens for transferring money between accounts, including selecting
+    the source and destination accounts, entering the amount, and confirming the transfer.
+
+    5.Bill Payments: If your app supports bill payments, create wireframes for this feature.
+    Include options to select the biller, enter the amount, and confirm the payment.
+
+    6.Settings: Design screens where users can manage their profile, security settings, and
+    notification preferences.
+
+    7.Help/Support: Create wireframes for the help and support section, including FAQs,
+    contact information, and chat support if applicable.
+
+Step 5: Use Balsamiq Tools Balsamiq provides various tools to create wireframes quickly. Use basic
+shapes, text elements, buttons, and other UI components to create your screens. Keep the design
+simple and focused on functionality.
+
+Step 6: Link Screens (Optional) If you want to create a clickable prototype, you can link the screens
+together in Balsamiq. This allows you to simulate the user flow by adding clickable areas to buttons
+and links, enabling you to demonstrate how users would navigate through the app.
+
+Step 7: Review and Refine After creating the initial wireframes, review them to ensure they meet the
+requirements and provide a seamless user experience. Make any necessary adjustments to the
+layout, content, or interactions.
+
+RESULT : Thus mobile banking application using balsamiq design software has been designed .
